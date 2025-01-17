@@ -412,7 +412,7 @@ body {
         /* New Image */
     }
     100% {
-        content: url('images/aboutme/asd.jpg');
+        content: url('images/aboutme/k.jpg');
         /* Loop back to the first image */
     }
 }
